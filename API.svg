@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2773B0;}
+</style>
+<g>
+	<path class="st0" d="M50,81.2c-17.2,0-31.2-14-31.2-31.2s14-31.2,31.2-31.2s31.2,14,31.2,31.2S67.2,81.2,50,81.2z M50,27
+		c-12.7,0-23,10.3-23,23c0,12.7,10.3,23,23,23s23-10.3,23-23C73,37.3,62.7,27,50,27z"/>
+	<g>
+		<rect x="45" y="10.3" class="st0" width="9.9" height="9.9"/>
+		<path class="st0" d="M56.2,21.5H43.8V9.1h12.4V21.5z M46.3,19h7.4v-7.4h-7.4V19z"/>
+	</g>
+	<g>
+		<rect x="45" y="79.7" class="st0" width="9.9" height="9.9"/>
+		<path class="st0" d="M56.2,90.9H43.8V78.5h12.4V90.9z M46.3,88.4h7.4V81h-7.4V88.4z"/>
+	</g>
+	<g>
+		<rect x="10.3" y="45" class="st0" width="9.9" height="9.9"/>
+		<path class="st0" d="M21.5,56.2H9.1V43.8h12.4V56.2z M11.6,53.7H19v-7.4h-7.4V53.7z"/>
+	</g>
+	<g>
+		<rect x="79.7" y="45" class="st0" width="9.9" height="9.9"/>
+		<path class="st0" d="M90.9,56.2H78.5V43.8h12.4V56.2z M81,53.7h7.4v-7.4H81V53.7z"/>
+	</g>
+	<g>
+		<rect x="20.5" y="69.6" transform="matrix(0.7071 0.7071 -0.7071 0.7071 60.1637 3.8267)" class="st0" width="9.9" height="9.9"/>
+		<path class="st0" d="M25.5,83.3l-8.8-8.8l8.8-8.8l8.8,8.8L25.5,83.3z M20.2,74.5l5.3,5.3l5.3-5.3l-5.3-5.3L20.2,74.5z"/>
+	</g>
+	<g>
+		
+			<rect x="69.6" y="20.5" transform="matrix(0.7071 0.7071 -0.7071 0.7071 39.8363 -45.2481)" class="st0" width="9.9" height="9.9"/>
+		<path class="st0" d="M74.5,34.2l-8.8-8.8l8.8-8.8l8.8,8.8L74.5,34.2z M69.3,25.5l5.3,5.3l5.3-5.3l-5.3-5.3L69.3,25.5z"/>
+	</g>
+	<g>
+		
+			<rect x="20.5" y="20.5" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 61.4723 25.4626)" class="st0" width="9.9" height="9.9"/>
+		<path class="st0" d="M25.5,34.2l-8.8-8.8l8.8-8.8l8.8,8.8L25.5,34.2z M20.2,25.5l5.3,5.3l5.3-5.3l-5.3-5.3L20.2,25.5z"/>
+	</g>
+	<g>
+		
+			<rect x="69.6" y="69.6" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 179.9492 74.5373)" class="st0" width="9.9" height="9.9"/>
+		<path class="st0" d="M74.5,83.3l-8.8-8.8l8.8-8.8l8.8,8.8L74.5,83.3z M69.3,74.5l5.3,5.3l5.3-5.3l-5.3-5.3L69.3,74.5z"/>
+	</g>
+</g>
+</svg>
